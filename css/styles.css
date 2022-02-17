@@ -1,0 +1,19 @@
+body {
+  background-color: #ffffff;
+  font-family: sans-serif;
+}
+
+.list {
+  list-style: none;
+}
+
+/* button */
+.btn {
+  background-color: #f5f4fa;
+  color: #212121;
+}
+
+.btn-portfolio {
+  background-color: #2196f3;
+  color: #ffffff;
+}
