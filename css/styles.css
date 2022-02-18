@@ -152,6 +152,10 @@ body {
   color: var(--accent-color);
 }
 
+.logo-two {
+  color: var(--title-text-color);
+}
+
 /* portfolio */
 .btn {
   background-color: var(--btn-bcg-color);
